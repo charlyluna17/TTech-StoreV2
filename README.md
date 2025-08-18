@@ -7,7 +7,6 @@
 - Diaz Diaz Eugenio Antonio  
 - López Gómez Mariana Maytee  
 - Luna Diaz Carlos Roberto  
-- Martinez Hernandez Fernando Gabriel  
 - Reyes Hernandez Carlos Isaac  
 
 ---
