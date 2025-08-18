@@ -12,4 +12,5 @@
 ---
 
 **Link Trello (Tablero de tareas)**  
-📌 [https://trello.com/b/k5H8QP4q/proyecto-pagina-web-ttech-store](https://trello.com/b/k5H8QP4q/proyecto-paginaEste trabajo está bajo una Licencia Creative Commons **CC BY-NC-SA 4.0**.
+📌 [[[https://trello.com/b/k5H8QP4q/proyecto-pagina-web-ttech-store](https://trello.com/b/k5H8QP4q/proyecto-pagina](https://trello.com/b/k5H8QP4q/proyecto-pagina-web-ttech-store-v2)](https://trello.com/b/k5H8QP4q/proyecto-pagina-web-ttech-store-v2)
+Este trabajo está bajo una Licencia Creative Commons **CC BY-NC-SA 4.0**.
