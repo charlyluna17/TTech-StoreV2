@@ -1,0 +1,141 @@
+/* Personalización del tema Bootstrap */
+:root {
+    --bs-primary: #f7dc6f;
+    --bs-secondary: #f7dc6f;
+    --bs-danger: #e74c3c;
+}
+.navbar{
+    background-color: #616161 !important;
+}
+
+/* Efectos hover para tarjetas de producto */
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+}
+
+/* Cursor pointer para elementos clickeables */
+.cursor-pointer {
+    cursor: pointer;
+}
+
+/* Ajustes para imágenes de productos */
+.card-img-top {
+    object-fit: contain;
+    height: 200px;
+}
+
+/* Estilo para el navbar sticky */
+.sticky-top {
+    top: 0;
+    z-index: 1020;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .btn-lg-on-mobile {
+        padding: 0.5rem 1rem;
+        font-size: 1rem;
+    }
+}
+
+/* Estilo para las cards de productos */
+.card-producto {
+    transition: transform 0.3s ease;
+}
+.card-producto:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+/* Ajuste para imágenes en cards */
+.card-img-top {
+    height: 200px;
+    object-fit: contain;
+}
+
+/* Estilos para las cards de productos relacionados */
+.product-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+/* Placeholder para imágenes faltantes */
+img[src*="placeholder.jpg"] {
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+.contador-carrito {
+    font-size: 0.7rem;
+    padding: 0.25em 0.4em;
+    min-width: 1.5em;
+}
+
+#lista-carrito .card {
+    transition: transform 0.2s;
+}
+
+#lista-carrito .card:hover {
+    transform: translateY(-2px);
+}
+
+#finalizar-compra {
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+/* Estilos para notificaciones */
+.toast {
+    animation: fadeIn 0.3s;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.product-action-btn {
+    transition: all 0.2s;
+}
+
+.product-action-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.product-action-btn:active {
+    transform: translateY(0);
+}
+
+/* Estilo para el botón del carrito */
+.nav-item .btn {
+    position: relative;
+    padding: 0.5rem;
+    color: inherit;
+}
+
+.nav-item .btn:hover {
+    color: var(--bs-primary);
+}
+
+.contador-carrito {
+    font-size: 0.65rem;
+    min-width: 1.25em;
+    height: 1.25em;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
