@@ -7,7 +7,8 @@
 - Diaz Diaz Eugenio Antonio  
 - López Gómez Mariana Maytee  
 - Luna Diaz Carlos Roberto  
-- Reyes Hernandez Carlos Isaac  
+- Reyes Hernandez Carlos Isaac
+- Peralta Cruz William Aarón  
 
 ---
 
