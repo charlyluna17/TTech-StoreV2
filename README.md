@@ -1,5 +1,5 @@
 **Enlace Sitio Web - Tech Store**
-🔗 [https://charyluna17.github.io/TTech_Shop/
+🔗https://charlyluna17.github.io/TTech_Shop/
 
 ---
 
